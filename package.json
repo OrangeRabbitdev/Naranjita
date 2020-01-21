@@ -1,0 +1,25 @@
+{
+  "name": "Discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "token": "4rm1MQ0bk4F4pzWLpSHgk5X6fq0QVHpa",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg-binaries": "^4.0.0",
+    "install": "^0.13.0",
+    "npm": "^6.10.0",
+    "opusscript": "0.0.7",
+    "spotify-web-api-node": "^4.0.0",
+    "ytdl-core": "^0.29.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
